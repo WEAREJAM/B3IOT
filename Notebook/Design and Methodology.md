@@ -43,6 +43,9 @@ The ESP32 connects to the personal hotspot and establishes an MQTT connection wi
 ---
 
 ### E. Flow of Operation
+
+![DHT11 Sensor Data](https://github.com/WEAREJAM/B3IOT/blob/main/Images/Picture1.png?raw=true)
+
 Immediately after the ESP32 is powered on, it starts executing the program:  
 
 1. Initializes a **serial monitor** for real-time testing and monitoring.  
