@@ -11,6 +11,8 @@ The ESP32 successfully connects to the MQTT broker and continuously publishes en
 ```json
 {"d":{"temp":24.6,"humidity":58.2}}
 ```
+![DHT11 Sensor Data2](https://github.com/WEAREJAM/B3IOT/blob/main/Images/Picture2.png?raw=true)
+
 The DHT11 sensor makes continuous measurements of the temperature and humidity of the ambient air in real time. Acquired data is read by the ESP32, formatted as JSON messages, and sent to the MQTT broker for further processing. These are the bases for the dashboard visualization in Node-RED and, correspondingly, for the indication of LED colors, allowing direct and clear comprehension of the environmental conditions.[5]
 
 ### B. Data Visualization
