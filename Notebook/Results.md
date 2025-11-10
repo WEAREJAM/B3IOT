@@ -18,6 +18,13 @@ The DHT11 sensor makes continuous measurements of the temperature and humidity o
 ### B. Data Visualization
 Node-RED accurately displays live temperature and humidity readings through gauges and charts. The chart reflects real-time variations, allowing users to observe environmental trends. The system showed negligible delay in data transmission and smooth updates across the MQTT channel.
 
+![DHT11 Sensor Data3](https://github.com/WEAREJAM/B3IOT/blob/main/Images/Picture3.png?raw=true)
+
+![DHT11 Sensor Data4](https://github.com/WEAREJAM/B3IOT/blob/main/Images/Picture4.png?raw=true)
+
+![DHT11 Sensor Data5](https://github.com/WEAREJAM/B3IOT/blob/main/Images/Picture5.png?raw=true)
+
+
 ### C. LED Color Response
 
 | Temperature Range | LED Color | Status Description |
@@ -26,6 +33,8 @@ Node-RED accurately displays live temperature and humidity readings through gaug
 | 10–25°C          | Green     | Normal           |
 | 25–30°C          | Yellow    | Warm             |
 | Above 30°C       | Red       | Hot Alert        |
+
+![DHT11 Sensor Data6](https://github.com/WEAREJAM/B3IOT/blob/main/Images/Picture6.png?raw=true)
 
 **Fig 4:** NeoPixel LED Color Response
 
