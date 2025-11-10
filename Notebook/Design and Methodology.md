@@ -1,4 +1,4 @@
-## II. System Design and Methodology
+## System Design and Methodology
 
 ### A. System Architecture
 The system is divided into three layers:
