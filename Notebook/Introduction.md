@@ -1,4 +1,4 @@
-##Introduction##
+#Introduction
 The Internet of Things (IoT) is revolutionizing modern technology by enabling the interconnection of physical devices through the internet. These systems allow real-time sensing, communication, and data-driven decision-making across multiple domains, including healthcare, industrial automation, smart homes, and environmental monitoring. IoT systems enhance efficiency and provide insights into environmental and operational conditions by leveraging sensors, microcontrollers, and cloud-based data platforms.
 
 This project focuses on the design and development of a low-cost environmental monitoring system using an ESP32 microcontroller integrated with a DHT11 temperature and humidity sensor. The system uses the MQTT (Message Queuing Telemetry Transport) protocol for lightweight and efficient communication with a public broker and Node-RED for real-time visualization[2]. The setup replaces conventional Wi-Fi connectivity with a personal mobile hotspot to demonstrate portability and accessibility in remote or temporary environments.
